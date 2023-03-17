@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1610724779 source:e:\new fresh\informatica new fresh\graphics\grafica\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<math.h>
+	<Windows.h>
+	<stack>
+	"play_music.h"
+	"play_music_off.h"
+	"afisare_menu.h"
+	"afisare_optiuni.h"
+	"afisare_on_off.h"
+	"afisare_limba.h"
+	"afisare_muzica.h"
+	"afisare_despre.h"
+	"afisare_incepe.h"
+	"animatie_monitor.h"
+	"calculeaza_coordonate.h"
+	"citeste_functie.h"
+	"button_effect.h"
+	"asimptote.h"
+	"butoane_min_max_asimptote.h"
+	"corectitudine.h"
+	"evaluator.h"
+	"desenare.h"
+
+1609081263 e:\new fresh\informatica new fresh\graphics\grafica\afisare.h
+
+1609697408 e:\new fresh\informatica new fresh\graphics\grafica\play_music.h
+
+1609697407 e:\new fresh\informatica new fresh\graphics\grafica\play_music_off.h
+	"play_music.h"
+
+1610546173 e:\new fresh\informatica new fresh\graphics\grafica\afisare_menu.h
+
+1609695683 e:\new fresh\informatica new fresh\graphics\grafica\afisare_optiuni.h
+
+1609696042 e:\new fresh\informatica new fresh\graphics\grafica\afisare_despre.h
+
+1610718401 e:\new fresh\informatica new fresh\graphics\grafica\animatie_monitor.h
+
+1609697307 e:\new fresh\informatica new fresh\graphics\grafica\afisare_limba.h
+
+1610717952 e:\new fresh\informatica new fresh\graphics\grafica\calculeaza_coordonate.h
+
+1609699589 e:\new fresh\informatica new fresh\graphics\grafica\afisare_on_off.h
+
+1609699715 e:\new fresh\informatica new fresh\graphics\grafica\afisare_muzica.h
+
+1610204544 e:\new fresh\informatica new fresh\graphics\grafica\afisare_incepe.h
+
+1610718604 e:\new fresh\informatica new fresh\graphics\grafica\button_effect.h
+	"calculeaza_coordonate.h"
+
+1610724404 e:\new fresh\informatica new fresh\graphics\grafica\citeste_functie.h
+	"evaluator.h"
+	"corectitudine.h"
+	"afisare_menu.h"
+
+1610723212 e:\new fresh\informatica new fresh\graphics\grafica\evaluator.h
+
+1610407340 e:\new fresh\informatica new fresh\graphics\grafica\corectitudine.h
+
+1610724447 e:\new fresh\informatica new fresh\graphics\grafica\desenare.h
+
+1610571427 e:\new fresh\informatica new fresh\graphics\grafica\asimptote.h
+	"desenare.h"
+
+1610452745 e:\new fresh\informatica new fresh\graphics\grafica\butoane_min_max_asimptote.h
+

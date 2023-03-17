@@ -1,0 +1,31 @@
+https://www.youtube.com/watch?v=SM_Ju3C1JIs
+
+
+Va prezint proiectul Graficul unei functii
+Acesta este meniul principal al programului de unde avem mai multe Optiuni de ales
+
+Butonul despre unde se afla informatii despre cine a realizat proiectul adica eu, frentescu cezar si colegul meu cristea stefan .
+
+Butonul Optiuni de unde putem sa schimbam limba, avand de ales intre romana franceza si engleza, fiecare limba avand cate o tematica de culori diferita.
+
+Apoi urmeaza muzica, de unde putem sa selectam dintre 5 melodii diferite.
+saaau sa le inchidem p
+
+Ok acum urmeaza partea ce ne intereseaza cu adevarat, graficul functiei.
+Si esti introdus in acest laborator 
+
+In coltul din dreapta sus se afla informatii despre ce este permis si ce nu este permis in functia pe care o introducem de la tastatura
+
+Pentru a introduce functia trebuie sa apasam click pe acest ecran.De aici, programul detecteaza in timp real greselile de scriere precum : 
+- Poti utiliza doar X ca variabila aaaa
+- Caractere Nepermise $
+- Functia este scrisa incorect ()
+
+Si de asemenea functia se poate intinde pana la capatul ecranului.
+
+Sa introducem o functie
+
+Odata ce este validata functia vei introdus din perspectiva unui omulet savant de aici ce proceseaza functia respectiva.
+
+Initial graficul functiei este incadrat in intervalul inchis -10 , 10 , iar pentru a restrange sau extinde intervalul se folosesc butoanele de zoom in si zoom out.
+Programul este capabil sa afiseze asimptotele functiei,punctele de minim si de maxim
