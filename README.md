@@ -2,7 +2,7 @@
 (Year 1 Computer Science Project)
 
 The "Graph of a Function" project was implemented in C, using the "graphics.h" graphics library. \
-It contains a mathematical evaluator to process functions, as well as a way to display these functions on the xOy axis.
+It contains a mathematical expression-evaluator to process functions, as well as a way to display these functions on the xOy axis with the respectively asymptotes, min-max points, zoom in-out on a set interval [-a, +a].
 
 
 #### VIDEO
